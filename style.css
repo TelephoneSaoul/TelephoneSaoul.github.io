@@ -1,0 +1,199 @@
+/* Style du corps de texte */
+h1 {
+	font-weight: normal;
+	color:#035011;
+}
+
+h2 {
+	font-weight: normal;
+	color:#035011;
+	text-decoration : underline;
+}
+
+
+/*corps de texte */
+
+body {
+	
+	font-family: AndikaW, serif;
+	padding-top:1%;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1000px;
+	min-width: 470px;
+	height: auto;
+	margin-bottom: 4%;
+	background-color:#f6f7ab;
+}
+
+main {
+	/*background-color:#035011 ;*/
+}
+
+header {
+	/*background-color:#035011 ;*/
+}
+
+
+ .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fcfadf;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            margin-top: 50px;
+        }
+
+ .smallContainer {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 5px;
+            background-color: #fcfadf;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            margin-top: 50px;
+        }
+
+/*Tableau */
+
+table {
+	width: 100%;
+	max-width: 1000px;
+	min-width: 470px;
+}
+
+.droite {
+	text-align: right;
+}
+
+.gauche {
+	text-align: left;
+}
+
+.centre {
+	text-align: center;
+}
+
+/*truc*/
+
+hr {
+	color: #035011;
+}
+
+/* Images */
+
+img.fit-picture {
+ 	max-width: 900px;
+	max-height: 900px;
+ 	margin-left: 10px;
+ 	margin-right: 10px;
+	
+}
+
+img.etal-picture {
+ 	width: 100%;
+ 	max-height : 400px;
+}
+
+
+
+/*navigation menu style*/
+nav {
+   text-align: center;
+   word-spacing: 40px;
+   Padding: 20px;
+   background-image : url('images/trainIuleWagonCouleurGens.gif');
+   background-size : 100% 100%;
+   background-repeat: no-repeat;
+   
+}
+
+
+
+/* Liens sur fond blanc */
+
+/* unvisited link */
+a:link {
+    color: #249300;
+}
+
+/* visited link */
+a:visited {
+    color: #249300;
+}
+
+/* mouse over link */
+a:hover {
+    color: #c2e979;
+}
+
+/* selected link */
+a:active {
+    color: #c2e979;
+}
+
+/* Liens sur fond noir */
+
+/* unvisited link */
+a.nav:link {
+    color: white;
+	
+	line-height : 2;
+	max-width: 1000px;
+    margin: 0 auto;
+    padding: 2px;
+    background-color: #7b2008;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* visited link */
+a.nav:visited {
+    color: white;
+	
+	line-height : 2;
+	max-width: 1000px;
+    margin: 0 auto;
+    padding: 2px;
+    background-color: #7b2008;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* mouse over link */
+a.nav:hover {
+    color: #c2e979;
+	
+	line-height : 2;
+	max-width: 1000px;
+    margin: 0 auto;
+    padding: 2px;
+    background-color: #7b2008;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* selected link */
+a.nav:active {
+    color: #c2e979;
+	
+	line-height : 2;
+	max-width: 1000px;
+    margin: 0 auto;
+    padding: 2px;
+    background-color: #7b2008;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+
+    
+    
+
+    
+    
