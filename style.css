@@ -1,12 +1,12 @@
 /* Style du corps de texte */
 h1 {
 	font-weight: normal;
-	color:#035011;
+	color:#7B2008;
 }
 
 h2 {
 	font-weight: normal;
-	color:#035011;
+	color:#7B2008;
 	text-decoration : underline;
 }
 
@@ -93,7 +93,7 @@ img.fit-picture {
 
 img.etal-picture {
  	width: 100%;
- 	max-height : 400px;
+ 	max-height : 300px;
 }
 
 
@@ -115,22 +115,22 @@ nav {
 
 /* unvisited link */
 a:link {
-    color: #249300;
+    color: #7B2008;
 }
 
 /* visited link */
 a:visited {
-    color: #249300;
+    color: #7B2008;
 }
 
 /* mouse over link */
 a:hover {
-    color: #c2e979;
+    color: #249300;
 }
 
 /* selected link */
 a:active {
-    color: #c2e979;
+    color: #249300;
 }
 
 /* Liens sur fond noir */

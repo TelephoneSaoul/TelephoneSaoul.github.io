@@ -9,7 +9,7 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 @font-face {
   font-family: AndikaW;
   font-size: large;
-  color : #286014;
+  color : #2D1E1E;
   src: url(Andika-Regular.woff2);
 }
 /* use Andika - Italic in .woff2 format */
@@ -17,7 +17,7 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
   font-family: AndikaW;
   font-style: italic;
   font-size: large;
-  color : #286014;
+  color : #2D1E1E;
   src: url(Andika-Italic.woff2);
 }
 /* use Andika - Bold in .woff2 format */
@@ -25,7 +25,7 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 	font-family: AndikaW;
 	font-weight: bold;
 	font-size: large;
-	color : #286014;
+	color : #2D1E1E;
 	src: url(Andika-Bold.woff2);
 }
 /* use Andika - Bold Italic in .woff2 format */
@@ -34,7 +34,7 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 	font-weight: bold;
 	font-style: italic;
 	font-size: large;
-	color : #286014;
+	color : #2D1E1E;
 	src: url(Andika-BoldItalic.woff2);
 }
 
@@ -42,7 +42,7 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 body {
   font-family: AndikaW, serif;
   font-size: large;
-  color : #286014;
+  color : #2D1E1E;
     /* fall back to serif so that it's really obvious if the fonts don't load */
 }
 /* remove bold styling from heading */
