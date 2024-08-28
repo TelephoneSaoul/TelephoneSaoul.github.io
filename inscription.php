@@ -49,7 +49,8 @@
 			
 			<div>
 				<?php
-				$message= $_POST['name'] . '<br> Comment me contacter :' . 
+				$message= $_POST['name'] . '<br>' .
+							$_POST['regle'] . '<br> Comment me contacter :' . 
 							$_POST['contact'] . '<br> Comment me créditer :' . 
 							$_POST['credit'] . '<br> Autre ? :' . 
 							$_POST['period'];
