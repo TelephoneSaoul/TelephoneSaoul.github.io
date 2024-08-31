@@ -1,0 +1,28 @@
+#    _,________
+#   _T _==____() A.I
+#  /##(_)-'
+# /##/
+# """
+######## BE GONE, A.I BOTS!
+# This files comes from JAKE CHIRAK [https://wwww.jakechirak.com]
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-Agent: FacebookBot
+Disallow: /
+
+Disallow: /judging/ others for harmless actions
+Allow: /being kind/ to yourself
